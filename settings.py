@@ -7,5 +7,5 @@ settings = {
     # 'cookie_secret':'0Q1AKOKTQHqaa+N80XhYW7KCGskOUE2snCW06UIxXgI=',
     # 'xsrf_cookies':False,
     # 'login_url':'/login',
-    'debug': True,
+    # 'debug': True,
 }
